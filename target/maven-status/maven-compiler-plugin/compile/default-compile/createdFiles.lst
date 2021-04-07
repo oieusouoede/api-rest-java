@@ -1,0 +1,3 @@
+br\contacts\resource\Contact.class
+br\contacts\resource\ContactsResource.class
+br\contacts\view\NewContactView.class
