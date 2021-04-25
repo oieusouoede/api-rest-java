@@ -8,8 +8,12 @@ public class Contact {
 		this.telefone = telefone;
 		this.email = email;
 	}
+	
 	public Contact() {
 	}
+	
+	// Getters'n'setters stuff
+	
 	private Integer id;
 	private String nome;
 	private Integer telefone;
